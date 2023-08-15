@@ -1,5 +1,5 @@
 # Zoltán Szőgyényi
 
-Creator of http://flowbite.com. Web dev. Open-source contributor. Community builder.
+Creator of [Flowbite](https://github.com/themesberg/flowbite). Web dev. Open-source contributor. Community builder.
 
-<a href="https://twitter.com/zoltanszogyenyi"><img src="https://img.shields.io/twitter/follow/zoltanszogyenyi?style=social" alt="Twitter follow"></a>
+Follow me on [Twitter](https://twitter.com/zoltanszogyenyi) for building in public.
